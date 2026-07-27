@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
