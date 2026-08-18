@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/deshmukhsanika278-lgtm/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
